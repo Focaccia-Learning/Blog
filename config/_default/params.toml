@@ -60,14 +60,14 @@ publicationIcon = "📚"
 typeIcon = "🎯"
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
+myname = "YuSinChiu"
+email = "simoncat524@hotmail.com"
 whoami = "Web Developer"
 bioImageUrl = ""
 useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://zzossig.io/ko"
+location = "Taipei, Taiwan"
+organization = "永慶房屋"
+link = "https://github.com/FocacciaSyin"
 
 # sidebar
 enableBio = true
