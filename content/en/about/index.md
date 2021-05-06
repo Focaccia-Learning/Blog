@@ -1,27 +1,21 @@
 +++
-title = "About"
+title = "關於我自己"
 description = "Hugo, the world’s fastest framework for building websites"
 type = "about"
-date = "2019-02-28"
+date = "2021-05-07"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+這裡會記錄上班遇到的問題，喜歡的技術，
+私心喜歡 Xamarin 進行 App 的開發，
+會記錄較多偏向 C# 後端的東西，
+前端加減碰一點，可能會寫寫 Vue.js 相關的。
 
-Hugo makes use of a variety of open source projects including:
+相關作品連結
+* [GitHub](https://github.com/FocacciaSyin)
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+---
+使用 Hugo 的樣式可以參考  [Zzo](https://themes.gohugo.io/hugo-theme-zzo/)
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
 
 
 
